@@ -1,0 +1,7 @@
+{
+  "name": "CitizenConnect",
+  "description": "A social-driven governance platform for tracking public projects, vetting contractors via AI, and pitching local improvements with data-backed blueprints.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
